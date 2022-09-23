@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently a Statistics student at Brigham Young University
+- I mostly work with python data projects and some C++ projects
+
+
+
+
