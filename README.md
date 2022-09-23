@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - I'm currently a Statistics student at Brigham Young University
 - I mostly work with python data projects and some C++ projects
 - I'm also a huge Star Wars nerd
-- Let me know if you want to work with data!
+- Let me know if you want to work with data and don't know how to get started!
 
 
 
